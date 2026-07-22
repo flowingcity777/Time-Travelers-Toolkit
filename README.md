@@ -1,4 +1,4 @@
-# Time-Travelers-Toolkit
+# Time Travelers Toolkit
 
 A lightweight, modular Python library designed to assist temporal engineers and hobbyists alike in calculating the costs, risks, and messages associated with time travel. 
 
